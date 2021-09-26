@@ -1,10 +1,10 @@
 # payment_apps
 
-A new Flutter project.
+📱 Slicing UI Flutter - Payment-pricing apps
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![Screenshot app](https://github.com/DaffRazan/Payment-pricing/blob/master/assets/images/pricing-app.JPG)
 
 A few resources to get you started if this is your first Flutter project:
 
